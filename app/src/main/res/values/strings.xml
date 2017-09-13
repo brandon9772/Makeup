@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Makeup</string>
+    <string name="profile1r">profile1r</string>
+    <string name="profile2r">profile2r</string>
+    <string name="profile3r">profile3r</string>
+    <string name="profile4r">profile4r</string>
+    <string name="edit_profile">Edit profile</string>
+
+    <string name="title_activity_profile_full_screen">ProfileFullScreen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
